@@ -1,0 +1,5 @@
+P:\Emre\Çalışmalar\VMS_TCP_TEST_APP\Licence\bin\Debug\Licence.dll
+P:\Emre\Çalışmalar\VMS_TCP_TEST_APP\Licence\bin\Debug\Licence.pdb
+P:\Emre\Çalışmalar\VMS_TCP_TEST_APP\Licence\obj\Debug\Licence.dll
+P:\Emre\Çalışmalar\VMS_TCP_TEST_APP\Licence\obj\Debug\Licence.pdb
+P:\Emre\Çalışmalar\VMS_TCP_TEST_APP\Licence\obj\Debug\License.csprojResolveAssemblyReference.cache
